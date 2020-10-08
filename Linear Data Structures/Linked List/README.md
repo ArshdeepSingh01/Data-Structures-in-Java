@@ -14,5 +14,7 @@ The following are the operations performed in a Linked List :
 4. **Traversing** - Traversing each element(node) in the list
 
 **Inserting a new node** - We can insert a new node to a list at the beginning or at the end or at any random location in the Linked List
+
 **Deleting a node** - We can delete any node whether it is first node , last node or any intermediate node.
+
 **Traversing the list** - In Linked List Traversal we follow the Pointer and display the content of node as they are traversed and then we stop when pointer points to NULL.
