@@ -5,8 +5,6 @@ Therefore, in a doubly linked list, a node consists of three parts:
 2. Pointer to the next node in sequence (next pointer) 
 3. Pointer to the previous node (previous pointer).
 <br/>
-![alt text](https://www.studytonight.com/code/python/ds/images/doubly-linked-list-1.png)
-<br/>
 
 The following are the operations performed in a Linked List :
 1. **Insertion at beginning** :	Adding the node into the linked list at beginning.
